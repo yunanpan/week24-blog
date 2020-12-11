@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/week24-blog/static/css/main.8f1e7d1c.chunk.css",
+    "main.js": "/week24-blog/static/js/main.e469afc5.chunk.js",
+    "main.js.map": "/week24-blog/static/js/main.e469afc5.chunk.js.map",
+    "runtime-main.js": "/week24-blog/static/js/runtime-main.0de42064.js",
+    "runtime-main.js.map": "/week24-blog/static/js/runtime-main.0de42064.js.map",
+    "static/js/2.5e08f3c3.chunk.js": "/week24-blog/static/js/2.5e08f3c3.chunk.js",
+    "static/js/2.5e08f3c3.chunk.js.map": "/week24-blog/static/js/2.5e08f3c3.chunk.js.map",
+    "static/js/3.55cd0634.chunk.js": "/week24-blog/static/js/3.55cd0634.chunk.js",
+    "static/js/3.55cd0634.chunk.js.map": "/week24-blog/static/js/3.55cd0634.chunk.js.map",
+    "index.html": "/week24-blog/index.html",
+    "static/css/main.8f1e7d1c.chunk.css.map": "/week24-blog/static/css/main.8f1e7d1c.chunk.css.map",
+    "static/js/2.5e08f3c3.chunk.js.LICENSE.txt": "/week24-blog/static/js/2.5e08f3c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0de42064.js",
+    "static/js/2.5e08f3c3.chunk.js",
+    "static/css/main.8f1e7d1c.chunk.css",
+    "static/js/main.e469afc5.chunk.js"
+  ]
+}
